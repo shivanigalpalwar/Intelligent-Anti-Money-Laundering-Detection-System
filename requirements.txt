@@ -1,7 +1,6 @@
 streamlit
-numpy==1.26.4
-pandas==2.2.3
-tensorflow==2.18.0
+numpy
+pandas
+tensorflow
 scikit-learn==1.5.2
-imbalanced-learn==0.13.0
-
+imbalanced-learn
